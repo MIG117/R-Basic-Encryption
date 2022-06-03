@@ -2,8 +2,8 @@
 
 **Language used R**
 
-**This program ecrypts and decrypts user input (text/string)
-**It prints the Decrypted / Encrypted text in console.
+   - This program ecrypts and decrypts user input (text/string)
+   - It prints the Decrypted / Encrypted text in console.
 
 ***
 ## Requirements
